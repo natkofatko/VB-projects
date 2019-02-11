@@ -1,0 +1,13 @@
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\bin\Debug\Miles{PerGallonCalculator.exe.config
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\bin\Debug\Miles{PerGallonCalculator.exe
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\bin\Debug\Miles{PerGallonCalculator.pdb
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\bin\Debug\Miles{PerGallonCalculator.xml
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.vbprojAssemblyReference.cache
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.vbproj.GenerateResource.cache
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.exe
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.xml
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\Miles{PerGallonCalculator.pdb
+C:\Users\joemo\source\repos\Miles{PerGallonCalculator\Miles{PerGallonCalculator\obj\Debug\WindowsApp1.MilesPerGallonCalculator.resources
